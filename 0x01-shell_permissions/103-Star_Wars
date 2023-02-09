@@ -1,2 +1,2 @@
 #!/bin/bash
-xbmc-send --action="PlayMedia(./Star_Wars_IV)"
+telnet towel.blinkenlights.nl
